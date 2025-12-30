@@ -1,0 +1,7 @@
+--num_envs 4096
+
+--env_config _project/_g1_fight_crop_env.yaml
+--agent_config data/agents/deepmimic_g1_ppo_agent.yaml
+
+--log_file output/_g1_fight_crop.txt
+--out_model_file output/_g1_fight_crop.pt
