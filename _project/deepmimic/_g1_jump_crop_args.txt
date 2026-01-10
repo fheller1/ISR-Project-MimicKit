@@ -1,6 +1,6 @@
 --num_envs 4096
 
---env_config _project/_g1_jump_crop_env.yaml
+--env_config _project/deepmimic/_g1_jump_crop_env.yaml
 --agent_config data/agents/deepmimic_g1_ppo_agent.yaml
 
 --log_file output/_g1_jump_crop.txt

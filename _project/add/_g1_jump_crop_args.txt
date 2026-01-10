@@ -1,0 +1,7 @@
+--num_envs 4096
+
+--env_config _project/add/_g1_jump_crop_env.yaml
+--agent_config data/agents/add_g1_agent.yaml
+
+--log_file output/_add_g1_jump_crop.txt
+--out_model_file output/_add_g1_jump_crop.pt
